@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7598566
+  lightness: 0.609319
+  brandStrength: 0.7831541
+  brandColors:
+    - '#E8E1C7'
+    - '#5C3829'
+    - '#5C5C53'
+    - '#9BA2C6'
+    - '#E1F9FC'
+  rhythmicContrast: 0.7759857
+typography_spectrum: 0.1075269
+name: Ybernajs
