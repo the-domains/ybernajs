@@ -1,14 +1,28 @@
-layout_spectrum: 1
-color:
-  saturation: 0.7598566
-  lightness: 0.609319
-  brandStrength: 0.7831541
-  brandColors:
-    - '#E8E1C7'
-    - '#5C3829'
-    - '#5C5C53'
-    - '#9BA2C6'
-    - '#E1F9FC'
-  rhythmicContrast: 0.7759857
-typography_spectrum: 0.1075269
 name: Ybernajs
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#6b6b6b'
+    - '#2b9ead'
+    - '#a1a1a1'
+  brandStrength: 0.75
+  lightness: 0.6875
+  saturation: 1
+  rhythmicContrast: 0.75
+purpose: []
